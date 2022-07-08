@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: be5ec75953ff4a04c91c5cb91edf580a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Snap ITC
+  fontNames:
+  - Snap ITC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5a17b844df2f2984e9d3b5b6b76cc0b8, type: 3}
+  - {fileID: 12800000, guid: b60c0d5c16a0d3645b6be24c26f8304b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
